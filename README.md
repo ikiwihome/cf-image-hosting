@@ -7,7 +7,7 @@ Free unlimited image hosting on Telegraph, deployed on Cloudflare.
 - Free & Unlimited
 - Drag & Drop to upload
 - Copy & Paste to upload
-- Supported formats: image/video/GIF, Max file size is 5MB
+- Supported formats: image/video/GIF, Max file size is 500MB
 
 ### Screenshots
 

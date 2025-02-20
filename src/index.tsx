@@ -29,7 +29,7 @@ app.get("/file/:name", async (c) => {
 
 app.onError((error, c) => {
   return c.json(
-    { code: 500, message: error?.message || "Server internal error" },
+    { code: 500, message: error?.message || "服务器内部错误" },
     500,
   );
 });
